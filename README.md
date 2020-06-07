@@ -1,5 +1,8 @@
 # Adaptive_Learning
 
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 This is a c++ code that is a basic prototype for adaptive learning
 This is done as a part of an extra credit course at our college called Design Thinking.
 Idea : To make an evaluating system that adpats according to the user
@@ -20,4 +23,6 @@ Code: So what does the code do.
 Scope:  1) Combined with the power of Machine Learning and Big Data this can be applied to various evaluation system.
         2) Further research can be done on making it more effecient and practically applicable. 
         
-p.s. - Find pictures of actual application in screenshots folder
+
+
+P.S. : This was the "project" i worked on . Even though its simple. Its real close to my heart
